@@ -32,4 +32,4 @@ Future iterations of this model will include regressing toward each position's m
 
 ## Running It
 
-The script (Better_Than_MARCEL.R) needs R with dplyr, and was built upon datasets included with the SABR Level 3 coursework + the position CSV. The included files are the resulting projections.
+The script (Better_Than_MARCEL.R) needs R with dplyr, and was built upon datasets included with the SABR Level 3 coursework + the position CSV.
